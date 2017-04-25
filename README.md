@@ -1,4 +1,4 @@
 # ReactNativeAnimatedShortcutMenu
 Animated Shortcut Menu<br>
-![gif](http://www.baidu.com/img/bdlogo.gif)
+![gif](ReactNativeAnimatedShortcutMenu/GIFDemo/QQ20170425-170933.gif)
 
