@@ -1,0 +1,2 @@
+# ReactNativeAnimatedShortcutMenu
+Animated Shortcut Menu
